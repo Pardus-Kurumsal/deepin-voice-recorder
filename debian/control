@@ -10,3 +10,4 @@ Package: deepin-voice-recorder
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: Voice recorder application for deepin
+ Voice recorder application for deepin.
