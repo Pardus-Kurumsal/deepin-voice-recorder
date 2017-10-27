@@ -1,0 +1,17 @@
+QListView {
+    show-decoration-selected: 1; /* make the selection span the entire width of the view */
+}
+
+QListView::item {
+	margin-left: 15px;
+	margin-right: 15px;
+}
+
+QListView::item:hover {
+	background: transparent;	
+}
+
+QListView::item:selected {
+	background: transparent;
+}
+
